@@ -10,5 +10,4 @@ public class Main {
 		product = (Product) conveyour.assembleProduct(product);
 		System.out.println("Product is created");
 	}
-
 }
