@@ -1,6 +1,6 @@
 
 public class LineStepLens implements ILineStep {
-	Lens lens;
+	private Lens lens;
 
 	@Override
 	public IProductPart buildProductPart() {

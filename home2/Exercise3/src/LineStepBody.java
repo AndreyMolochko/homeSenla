@@ -1,6 +1,6 @@
 
 public class LineStepBody implements ILineStep{
-	Body body;
+	private Body body;
 
 	@Override
 	public IProductPart buildProductPart() {

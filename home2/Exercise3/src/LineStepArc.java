@@ -1,6 +1,6 @@
 
 public class LineStepArc implements ILineStep {
-	Arc arc;
+	private Arc arc;
 
 	@Override
 	public IProductPart buildProductPart() {
